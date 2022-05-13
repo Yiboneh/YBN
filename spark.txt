@@ -1,0 +1,13 @@
+זִיק
+spark
+
+Spark
+  Send 
+  Recieve
+Wick
+  Lay
+  Send
+  Recieve
+  Strike
+  Ignite
+
